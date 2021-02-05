@@ -1,4 +1,4 @@
-# UnderdraguateProject
-# Dario Gonzalez Picos 
-# University of Barcelona
-# Spring 2020
+# Undergraduate Project
+Dario Gonzalez Picos 
+University of Barcelona
+Spring 2020
